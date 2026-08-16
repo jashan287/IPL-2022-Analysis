@@ -1,25 +1,33 @@
-This project performs an exploratory data analysis of the Indian Premier League (IPL) 2022 using Python.
+# 🏏 IPL 2022 Analysis
 
-The analysis uses Pandas, NumPy, Matplotlib, and Seaborn to explore team performance, player statistics, match results, and other interesting insights from the IPL 2022 dataset.
+## 📌 About the Project
 
-🛠️ Technologies Used
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Jupyter Notebook
+This project performs exploratory data analysis on IPL 2022 data
+using Python, NumPy, Pandas and Seaborn.
 
-📊 Analysis Performed
+## 🛠️ Technologies Used
 
-Some of the analysis included in this project:
+- Python
+- NumPy
+- Pandas
+- Seaborn
+- Matplotlib
+- Jupyter Notebook
 
-Team-wise performance analysis
-Match results analysis
-Player performance analysis
-Top run scorers
-Top wicket takers
-Toss analysis
-Winning team analysis
-Venue-wise analysis
-Data visualization using Matplotlib and Seaborn
+## 📊 Analysis Performed
+
+- Team performance analysis
+- Player performance analysis
+- Match-winning analysis
+- Toss analysis
+- Runs and wickets analysis
+- Visualization of important IPL statistics
+
+## 📁 Project Structure
+
+```text
+IPL-2022-Analysis/
+├── IPL_2022_Analysis.ipynb
+├── data/
+├── images/
+└── README.md
